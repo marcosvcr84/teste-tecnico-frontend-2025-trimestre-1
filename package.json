@@ -1,0 +1,1 @@
+{ "name": "frontend-eai-pago", "dependencies": { "react": "^18.0.0", "react-dom": "^18.0.0", "axios": "^1.0.0", "react-toastify": "^9.1.1" }, "scripts": { "dev": "vite" } }
